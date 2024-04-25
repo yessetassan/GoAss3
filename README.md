@@ -9,3 +9,5 @@ This project consists of a REST API in Go that utilizes Redis for caching and Po
 * Caching Mechanism: Incorporated logic to check the Redis cache before querying the database, caching new queries with a TTL of 15 seconds.
 * Testing and Verification: Manual testing via tools like curl or Postman confirms the API's functionality and effective caching.
 * Execute go run main.go to start the server and access the API at localhost:8080/products/:id.
+
+![Uploading image.png…]()
