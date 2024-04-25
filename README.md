@@ -10,4 +10,5 @@ This project consists of a REST API in Go that utilizes Redis for caching and Po
 * Testing and Verification: Manual testing via tools like curl or Postman confirms the API's functionality and effective caching.
 * Execute go run main.go to start the server and access the API at localhost:8080/products/:id.
 
-![Uploading image.png…]()
+![image](https://github.com/yessetassan/GoAss3/assets/139701904/66640719-19ca-41fc-a7b2-946177073e65)
+
